@@ -8,7 +8,7 @@
  > `pkg install git -y`
 
 
- > `git clone http://github.com/DaVe-Smith-89/EvilEye-Banner.git`
+ > `git clone http://github.com/DaVe-Smith-899/EvilEye-Banner.git`
 
 
   >`chmod +x *`
